@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculadora(IpconMascara)</string>
+    <string name="textview_slash">/</string>
+    <string name="button_calculate">Calcular</string>
+    <string name="edit_text_hostp">Parte Host</string>
+    <string name="botoncalc_text">Calculado</string>
+    <string name="TextId">NetId</string>
+    <string name="text_view_broad">Broadcast</string>
+    <string name="edit_text_hint_ip">000.000.000.000</string>
+    <string name="edit_text_hint_mask">00</string>
+    <string name="text_view_canh">Host Disponibles</string>
+    <string name="text_view_netp">NParte Net</string>
+    <string name="botonres_text">Resetear</string>
+</resources>
